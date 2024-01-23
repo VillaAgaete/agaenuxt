@@ -6,7 +6,6 @@
     <nav>
       <ul class="nav-links">
         <li><NuxtLink to="/">Go to HOMEINDEX Page</NuxtLink></li>
-
         <li><NuxtLink to="/ver">Qué ver</NuxtLink></li>
         <li><NuxtLink to="/hacer">Qué hacer</NuxtLink></li>
       </ul>
